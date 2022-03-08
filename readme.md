@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishub Kumar</h1>
 <h3 align="center">A mildly lazy developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xy0ke&label=Profile%20views&color=0e75b6&style=flat" alt="xy0ke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xy0ke&label=Profile%20views&color=0e75b6&style=flat" alt="itsrishub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xy0ke&theme=radical" alt="xy0ke" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical" alt="itsrishub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xy0ke" target="blank"><img src="https://img.shields.io/twitter/follow/xy0ke?logo=twitter&style=for-the-badge" alt="xy0ke" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsrishub" target="blank"><img src="https://img.shields.io/twitter/follow/xy0ke?logo=twitter&style=for-the-badge" alt="xy0ke" /></a> </p>
 
-<p align="left"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc" alt="xy0ke" /></a> </p>
+<p align="left"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc" alt="itsrishub" /></a> </p>
 
 
 - 🔭 I’m currently working on **private projects**
