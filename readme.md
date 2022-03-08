@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xy0ke" target="blank"><img src="https://img.shields.io/twitter/follow/xy0ke?logo=twitter&style=for-the-badge" alt="xy0ke" /></a> </p>
 
-<p align="left"> <a href="https://rond.cc/" target="blank"><img src="https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc" alt="xy0ke" /></a> </p>
+<p align="left"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc" alt="xy0ke" /></a> </p>
 
 
 - 🔭 I’m currently working on **private projects**
@@ -29,10 +29,10 @@
 <p align="left">
 <a href="https://codepen.io/xy0ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xy0ke" height="30" width="40" /></a>
 <a href="https://dev.to/xy0ke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xy0ke" height="30" width="40" /></a>
-<a href="https://twitter.com/xy0ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xy0ke" height="30" width="40" /></a>
+<a href="https://twitter.com/itsrishub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xy0ke" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14315714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
 <a href="https://codesandbox.com/xy0ke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="xy0ke" height="30" width="40" /></a>
-<a href="https://instagram.com/rond.cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rond.cc" height="30" width="40" /></a>
+<a href="https://instagram.com/itsrishub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrishub" height="30" width="40" /></a>
 <a href="https://medium.com/@xy0ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xy0ke" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rondyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rondyt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/xy0ke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xy0ke" height="30" width="40" /></a>
