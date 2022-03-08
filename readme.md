@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical" alt="itsrishub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsrishub" target="blank"><img src="https://img.shields.io/twitter/follow/xy0ke?logo=twitter&style=for-the-badge" alt="xy0ke" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsrishub" target="blank"><img src="https://img.shields.io/twitter/follow/itsrishub?logo=twitter&style=for-the-badge" alt="xy0ke" /></a> </p>
 
-<p align="left"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc" alt="itsrishub" /></a> </p>
+<p align="left"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rishub.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="itsrishub" /></a> </p>
 
 
 - 🔭 I’m currently working on **private projects**
