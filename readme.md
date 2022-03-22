@@ -47,6 +47,14 @@
   <li>C</li>
   <li>C#</li>
   <li>Bash</li>
+  <li>SQL</li>
+  <li>Linux Administration</li>
+  <li>Server Management</li>
+  <li>Cryptology- Cryptography/Cryptanalysis Bug Hunting</li>
+  <li>WordPress</li>
+  <li>Cloud Computing</li>
+  <li>Malware Analysis/Reverse Engineering Web Automation</li>
+  <li>Networking Basics</li>
   
 </ul> </p>
 
