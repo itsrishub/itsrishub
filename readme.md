@@ -55,7 +55,7 @@
   <li>Cloud Computing</li>
   <li>Malware Analysis/Reverse Engineering</li>
   <li>Web Automation</li>
-  <li>Networking Basics</li>
+  <li>Networking</li>
   
 </ul> </p>
 
