@@ -50,7 +50,7 @@
   <li>SQL</li>
   <li>Linux Administration</li>
   <li>Cryptology- Cryptography/Cryptanalysis</li>
-  <li>Bug Hunting<li>
+  <li>Bug Hunting</li>
   <li>Cloud Computing</li>
   <li>Malware Analysis/Reverse Engineering</li>
   <li>Web Automation</li>
