@@ -64,6 +64,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&locale=en&theme=radical" alt="itsrishub" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrushub&theme=radical" alt="itsrishub" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=radical" alt="itsrishub" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsrishub" /></p>
