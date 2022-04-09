@@ -49,9 +49,8 @@
   <li>Bash</li>
   <li>SQL</li>
   <li>Linux Administration</li>
-  <li>Server Management</li>
-  <li>Cryptology- Cryptography/Cryptanalysis Bug Hunting</li>
-  <li>WordPress</li>
+  <li>Cryptology- Cryptography/Cryptanalysis</li>
+  <li>Bug Hunting<li>
   <li>Cloud Computing</li>
   <li>Malware Analysis/Reverse Engineering</li>
   <li>Web Automation</li>
