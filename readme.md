@@ -53,7 +53,8 @@
   <li>Cryptology- Cryptography/Cryptanalysis Bug Hunting</li>
   <li>WordPress</li>
   <li>Cloud Computing</li>
-  <li>Malware Analysis/Reverse Engineering Web Automation</li>
+  <li>Malware Analysis/Reverse Engineering</li>
+  <li>Web Automation</li>
   <li>Networking Basics</li>
   
 </ul> </p>
