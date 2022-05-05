@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I like swimming 😍**
 
 
-<p align="left"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
 
 
 
