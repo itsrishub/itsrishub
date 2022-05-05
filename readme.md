@@ -37,26 +37,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><ul>
-  <li>Python</li>
-  <li>PHP</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>C++</li>
-  <li>C</li>
-  <li>C#</li>
-  <li>Bash</li>
-  <li>SQL</li>
-  <li>Linux Administration</li>
-  <li>Cryptology- Cryptography/Cryptanalysis</li>
-  <li>Bug Hunting</li>
-  <li>Cloud Computing</li>
-  <li>Malware Analysis/Reverse Engineering</li>
-  <li>Web Automation</li>
-  <li>Networking</li>
-  
-</ul> </p>
+<p align="left"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/postman.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/redis.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/openresty.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/azure.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/bash.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/kubernetes.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/flask.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/heroku.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/selenium.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/jekyll.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/opencv.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/pytorch.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/go.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg"<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg"<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"<img src="https://hoppscotch.io/_nuxt/icons/icon_512x512.062430.png
+<img src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png"<img src="https://camo.mybb.com/bd92f71fa351ef8e5bba787af32593376070d359/687474703a2f2f692e696d6775722e636f6d2f6d4534494e76452e706e67
+<img src="https://xenforo.com/styles/default/xfs/xenforo-logo-256.png
+<img src="https://www.vim.org/images/vim_on_fire.gif"<img src="https://brew.sh/assets/img/homebrew-256x256.png
+<img src="https://pages.cloudflare.com/resources/logo/logo.svg"<img src="https://www.johndcook.com/twitter2018/regextip_no_padding.svg"<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg">/128px-Official_YAML_Logo.svg.png"<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png"<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"<img src="https://imgbot.net/images/imgbot.svg"> </p>
 
 <br>
 <br>
