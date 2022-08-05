@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Discord: xy0ke#1954**
-
 - ⚡ Fun fact **I like swimming 😍**
 
 
