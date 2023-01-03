@@ -33,11 +33,7 @@
 <a href="https://www.codechef.com/users/itsrishub" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsrishub" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itsrishub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsrishub" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-Language:
-<br>
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg">
@@ -49,18 +45,8 @@ Language:
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/bash.svg">
-
-<br>
-<br>
-Framework:
-<br>
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/flask.svg">
-
-<br>
-<br>
-Tools:
-<br>
 <img height="50" width="50" src="http://assets.stickpng.com/images/58482bb9cef1014c0b5e4a31.png">
 <img height="50" width="50" src="https://www.apache.org/foundation/press/kit/feather.svg">
 <img height="50" width="50" src="https://cdn.discordapp.com/attachments/746236455998980117/971831255119302866/614.png">
@@ -98,11 +84,6 @@ Tools:
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/openresty.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/postman.svg">
-
-<br>
-<br>
-Database:
-<br>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/128px-Official_YAML_Logo.svg.png">
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg">
 <img height="50" width="50" src="https://mariadb.com/wp-content/uploads/2019/11/vertical-logo_black.svg">
@@ -111,11 +92,6 @@ Database:
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/redis.svg">
-
-<br>
-<br>
-Cloud:
-<br>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png">
 <img height="50" width="50" src="https://pages.cloudflare.com/resources/logo/logo.svg">
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg">
@@ -124,10 +100,6 @@ Cloud:
 <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/azure.svg">
 <img height="50" width="50" src="https://www.netlify.com/v3/img/components/logomark.svg">
 
-<br>
-<br>
-OS:
-<br>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/1024px-MacOS_logo_%282017%29.svg.png">
 <img height="50" width="50" src="https://cdn.freebiesupply.com/logos/large/2x/centos-1-logo-png-transparent.png">
 <img height="50" width="50" src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png">
