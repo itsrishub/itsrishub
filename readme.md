@@ -30,8 +30,6 @@
 <a href="https://stackoverflow.com/users/14315714" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
 <a href="https://instagram.com/itsrishub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrishub" height="30" width="40" /></a>
 <a href="https://rishub.medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="itsrishub" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsrishub" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsrishub" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsrishub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsrishub" height="30" width="40" /></a>
 </p>
 
 <br>
