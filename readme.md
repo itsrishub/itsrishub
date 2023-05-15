@@ -11,14 +11,14 @@
 
 <p align="center">
   
-- 🔭 I’m currently working on **Private Projects**
+- 🔭 I’m currently working on **Private Projects**</p>
 
 - 🌱 I’m currently learning **Go & Rust**
 
 - 💬 Ask me about **Machine Learning**
 
 - ⚡ Fun fact **I like swimming 😍**
-</p>
+
 
 <p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
 
