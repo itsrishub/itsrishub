@@ -15,9 +15,9 @@
 
 <p align="center">- 🌱 I’m currently learning **Go & Rust**</p>
 
-<span align="center">- 💬 Ask me about **Machine Learning**</span>
+<p align="center">- 💬 Ask me about **Machine Learning**</p>
 
-<span align="center">- ⚡ Fun fact **I like swimming 😍**</span>
+<p align="center">- ⚡ Fun fact **I like swimming 😍**</p>
 
 
 <p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
