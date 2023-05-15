@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rishub.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="itsrishub" /></a> </p>
 
-
+<p align="center">
 - 🔭 I’m currently working on **Private Projects**
 
 - 🌱 I’m currently learning **Go & Rust**
@@ -17,7 +17,7 @@
 - 💬 Ask me about **Machine Learning**
 
 - ⚡ Fun fact **I like swimming 😍**
-
+</p>
 
 <p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
 
@@ -36,8 +36,8 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&locale=en&theme=radical" alt="itsrishub" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&locale=en&theme=radical" alt="itsrishub" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=radical" alt="itsrishub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=radical" alt="itsrishub" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsrishub" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsrishub" /></p>
