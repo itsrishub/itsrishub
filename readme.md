@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rishub.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="itsrishub" /></a> </p>
 
-<p align="center">
+
   
-- 🔭 I’m currently working on **Private Projects**</p>
+<p align="center">- 🔭 I’m currently working on **Private Projects**</p>
 
 - 🌱 I’m currently learning **Go & Rust**
 
