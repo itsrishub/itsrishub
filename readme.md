@@ -11,9 +11,9 @@
 
 
   
-<span align="center">- 🔭 I’m currently working on **Private Projects**</span>
+<p align="center">- 🔭 I’m currently working on **Private Projects**</p>
 
-<span align="center">- 🌱 I’m currently learning **Go & Rust**</span>
+<p align="center">- 🌱 I’m currently learning **Go & Rust**</p>
 
 <span align="center">- 💬 Ask me about **Machine Learning**</span>
 
