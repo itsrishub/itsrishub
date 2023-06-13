@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishub Kumar</h1>
 <h3 align="center">A mildly lazy developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsrishub&label=Profile%20views&color=0e75b6&style=flat" alt="itsrishub" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical" alt="itsrishub" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/itsrishub" target="blank"><img src="https://img.shields.io/twitter/follow/itsrishub?logo=twitter&style=for-the-badge" alt="itsrishub" /></a> </p>
-
-<p align="center"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rishub.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="itsrishub" /></a> </p>
+<p align="center"> <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div> </p>
 
 
   
