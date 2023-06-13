@@ -2,7 +2,7 @@
 <h3 align="center">A mildly lazy developer from India</h3>
 <br>
 <p align="center"> 
-      [Profile views counter](https://komarev.com/ghpvc/?username=itsrishub&&style=flat-square)  
+      <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
 <div align=center>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div> 
