@@ -2,6 +2,7 @@
 <h3 align="center">A mildly lazy developer from India</h3>
 <br>
 <p align="center"> 
+      ![Profile views counter](https://komarev.com/ghpvc/?username=itsrishub&&style=flat-square)  
 <div align=center>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div> 
@@ -18,7 +19,7 @@
 <p align="center">- ⚡ Fun fact *I like chess 😍*</p>
 
 
-<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" alt="itsrishub" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="F/api/spotify" alt="itsrishub" alt="itsrishub" /></a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
