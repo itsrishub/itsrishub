@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishub Kumar</h1>
 <h3 align="center">A mildly lazy developer from India</h3>
 <br>
-<p align="center"> <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+<p align="center"> 
+<div align=center>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div> </p>
+</div> 
+</p>
+
 <br>
 
-  
 <p align="center">- 🔭 I’m currently working on **Private Projects**</p>
 
 <p align="center">- 🌱 I’m currently learning **Typescript**</p>
@@ -18,7 +18,7 @@
 <p align="center">- ⚡ Fun fact **I like swimming 😍**</p>
 
 
-<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="itsrishub" /></a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
