@@ -35,9 +35,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrishub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
