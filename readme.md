@@ -3,6 +3,7 @@
 <br>
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
+      <br>
 <div align=center>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div> 
