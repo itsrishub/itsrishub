@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishub Kumar</h1>
 <h3 align="center">A mildly lazy developer from India</h3>
-
+<br>
 <p align="center"> <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div> </p>
-
+<br>
 
   
 <p align="center">- 🔭 I’m currently working on **Private Projects**</p>
@@ -35,27 +35,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itsrishub&theme=synthwave&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&locale=en&theme=radical" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=synthwave&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=radical" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itsrishub&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&show_icons=true&locale=en&layout=compact&theme=radical"/>
   
   </td>
 </tr>
 </table>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 </p>  
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&locale=en&theme=radical" alt="itsrishub" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrishub&theme=radical" alt="itsrishub" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&show_icons=true&locale=en&layout=compact&theme=radical" alt="itsrishub" /></p>
