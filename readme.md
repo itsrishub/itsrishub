@@ -3,7 +3,7 @@
 <br>
 <p align="center"> 
 <div align=center>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div> 
 </p>
 
@@ -18,7 +18,7 @@
 <p align="center">- ⚡ Fun fact **I like swimming 😍**</p>
 
 
-<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="itsrishub" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="itsrishub" /></a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
