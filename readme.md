@@ -40,7 +40,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&hide_border=false&no-bg=true&no-frame=true&langs_count=3"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsrishub&hide_border=false&no-bg=true&no-frame=true&layout=compact"/>
   
   </td>
 </tr>
