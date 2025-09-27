@@ -4,8 +4,10 @@
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
       <p align="center"> 
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-itsrishub-0077B5?style=flat-square)](https://www.linkedin.com/in/itsrishub/)
 [![twitter](https://img.shields.io/badge/itsrishub-000000?style=flat-square&logo=X)](https://x.com/itsrishub)
+
 </p>
 
 
