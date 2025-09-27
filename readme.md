@@ -17,23 +17,11 @@
 </div> 
 </p>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&theme=calm&count_private=true&hide_title=true&hide_border=true)
-
 
 
 ## My OSS Development
 
-[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=jnv&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/jnv)
-[![ynqa/sig](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=sig&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/sig)
-[![ynqa/logu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=logu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/logu)
-[![ynqa/empiriqa](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=empiriqa&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/empiriqa)
-[![ynqa/kuqu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=kuqu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/kuqu)
-
-[![ynqa/promkit](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=promkit&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/promkit)
-[![ynqa/j9](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=j9&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/j9)
-
-[![ynqa/wego](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=wego&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/wego)
-[![ynqa/pandavro](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=pandavro&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/pandavro)
+[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=itsrishub&hide_border=false&no-bg=true&no-frame=true&layout=compact)](https://github.com/ynqa/jnv)
 
 <!-- <br> -->
 
