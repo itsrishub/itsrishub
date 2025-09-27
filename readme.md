@@ -21,7 +21,7 @@
 
 ## My OSS Development
 
-[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=itsrishub&hide_border=false&no-bg=true&no-frame=true&layout=compact)](https://github.com/ynqa/jnv)
+[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=jnv&hide_border=false&no-bg=true&no-frame=true&layout=compact)](https://github.com/ynqa/jnv)
 
 <!-- <br> -->
 
