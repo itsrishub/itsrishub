@@ -10,11 +10,11 @@
 </div> 
 </p>
 
-<br>
+<!-- <br> -->
 
-<img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 
-<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p> -->
 
 
 <h3 align="center">Connect with me</h3>
