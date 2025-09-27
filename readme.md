@@ -8,6 +8,8 @@
 [![twitter](https://img.shields.io/badge/itsrishub-000000?style=flat-square&logo=X)]
 (https://x.com/itsrishub)
 
+![github-stats](https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&theme=calm&count_private=true&hide_title=true&hide_border=true)
+
 <div align=center>
       <br>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=itsrishub&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
