@@ -5,7 +5,7 @@
       <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
       
 [![linkedin](https://img.shields.io/badge/LinkedIn-itsrishub-0077B5?style=flat-square)](https://www.linkedin.com/in/itsrishub/)
-[![x](https://img.shields.io/badge/X-__ynqa-000000?style=flat-square&logo=X)]
+[![x](https://img.shields.io/badge/itsrishub-000000?style=flat-square&logo=X)]
 (https://x.com/itsrishub)
 
 <div align=center>
