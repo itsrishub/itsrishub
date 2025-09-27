@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rishub Kumar</h1>
+<h1 align="center">Hi, I'm Rishub Kumar</h1>
 <h3 align="center">A mildly lazy developer from India</h3>
 <br>
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
-
-
-
 
 
 <div align=center>
@@ -22,11 +19,31 @@
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=itsrishub&show_icons=true&theme=calm&count_private=true&hide_title=true&hide_border=true)
 
+
+
+## My OSS Development
+
+[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=jnv&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/jnv)
+[![ynqa/sig](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=sig&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/sig)
+[![ynqa/logu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=logu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/logu)
+[![ynqa/empiriqa](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=empiriqa&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/empiriqa)
+[![ynqa/kuqu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=kuqu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/kuqu)
+
+[![ynqa/promkit](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=promkit&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/promkit)
+[![ynqa/j9](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=j9&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/j9)
+
+[![ynqa/wego](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=wego&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/wego)
+[![ynqa/pandavro](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=pandavro&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/pandavro)
+
 <!-- <br> -->
 
 <!-- <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 
 <p align="center"> <a href="https://open.spotify.com/user/31drjew66te656erjtmaoozu65si" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p> -->
+
+
+<!-- <h3 align="center">Connect with me</h3>
+<p align="center"><a href="https://dev.to/itsrishub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsrishub" height="30" width="40" /></a><a href="https://twitter.com/itsrishub" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrishub" height="30" width="40" /></a><a href="https://linkedin.com/in/itsrishub/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="14315714" height="30" width="40" /></a><a href="https://instagram.com/itsrishub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrishub" height="30" width="40" /></a><a href="https://rishub.medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="itsrishub" height="30" width="40" /></a></p> -->
 
 <br>
 
