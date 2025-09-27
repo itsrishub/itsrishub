@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rishub Kumar</h1>
-<h3 align="center">A mildly lazy developer from India</h3>
+<!-- <h3 align="center">A mildly lazy developer from India</h3> -->
 <br>
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=itsrishub" alt="views">
