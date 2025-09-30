@@ -21,7 +21,6 @@
 <h3 align="center">My OSS Development</h3>
 
 [![itsrishub/logster](https://github-readme-stats.vercel.app/api/pin/?username=itsrishub&repo=logster&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=dark)](https://github.com/itsrishub/logster)
-
 [![itsrishub/kgcr](https://github-readme-stats.vercel.app/api/pin/?username=itsrishub&repo=kgcr&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=dark)](https://github.com/itsrishub/kgcr)
 
 <!-- <br> -->
