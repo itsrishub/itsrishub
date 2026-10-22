@@ -7,3 +7,5 @@
 [![X](https://img.shields.io/badge/X-itsrishub-ffffff?style=flat-square)](https://www.x.com/iamrishub/)
 
 </div>
+
+[![/dev/null activity](https://dev-null.sh/@itsrishub/graph.svg)](https://dev-null.sh/@itsrishub)
